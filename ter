@@ -1,0 +1,36 @@
+[33mcommit bde793c563d6942eac18a3f39b29476e7e797039[m[33m ([m[1;36mHEAD -> [m[1;32mdev[m[33m)[m
+Author: caijunkuang <caijunkuang@pcitech.com>
+Date:   Tue Jun 2 10:16:42 2020 +0800
+
+    44444444
+
+[33mcommit 31acc3716a421b1517d05e66d555b96a02961888[m[33m ([m[1;31morigin/dev[m[33m, [m[1;32mmaster[m[33m)[m
+Author: caijunkuang <caijunkuang@pcitech.com>
+Date:   Tue Jun 2 09:49:01 2020 +0800
+
+    分支测试
+
+[33mcommit 68d02b8b2df3f5f9ff940192ac77cd13f9d8bf0a[m[33m ([m[1;31morigin/master[m[33m)[m
+Merge: 2a0a960 cf6aad4
+Author: caijunkuang <caijunkuang@pcitech.com>
+Date:   Mon Jun 1 17:46:30 2020 +0800
+
+    Merge branch 'master' of https://github.com/SupremeJK/testgit
+
+[33mcommit 2a0a960a5868c74e0247a3373f0e9d0dc811f973[m
+Author: caijunkuang <caijunkuang@pcitech.com>
+Date:   Mon Jun 1 17:33:42 2020 +0800
+
+    同事test.txt提交
+
+[33mcommit cf6aad4619af2352f28929b61190cc2fc6673ee7[m
+Author: caijunkuang <caijunkuang@pcitech.com>
+Date:   Mon Jun 1 17:14:44 2020 +0800
+
+    增加22222222
+
+[33mcommit 33956ee571632e9a51054fd19dd0067dded004d6[m
+Author: caijunkuang <caijunkuang@pcitech.com>
+Date:   Mon Jun 1 17:09:02 2020 +0800
+
+    test.txt提交
